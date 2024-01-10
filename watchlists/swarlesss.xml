@@ -1,0 +1,797 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>swarlesss's Letterboxd Watchlist</title>
+    <link>https://letterboxd.com/swarlesss/watchlist/</link>
+    <description>swarlesss's Letterboxd Watchlist</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jan 2024 03:00:36 +0000</lastBuildDate>
+    <item>
+      <title>A Clockwork Orange (1971)</title>
+      <link>http://www.imdb.com/title/tt0066921</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0066921</guid>
+    </item>
+    <item>
+      <title>Reservoir Dogs (1992)</title>
+      <link>http://www.imdb.com/title/tt0105236</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0105236</guid>
+    </item>
+    <item>
+      <title>Scream (1996)</title>
+      <link>http://www.imdb.com/title/tt0117571</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0117571</guid>
+    </item>
+    <item>
+      <title>Catch Me If You Can (2002)</title>
+      <link>http://www.imdb.com/title/tt0264464</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0264464</guid>
+    </item>
+    <item>
+      <title>My Neighbor Totoro (1988)</title>
+      <link>http://www.imdb.com/title/tt0096283</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0096283</guid>
+    </item>
+    <item>
+      <title>Alien (1979)</title>
+      <link>http://www.imdb.com/title/tt0078748</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0078748</guid>
+    </item>
+    <item>
+      <title>Bohemian Rhapsody (2018)</title>
+      <link>http://www.imdb.com/title/tt1727824</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1727824</guid>
+    </item>
+    <item>
+      <title>Requiem for a Dream (2000)</title>
+      <link>http://www.imdb.com/title/tt0180093</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0180093</guid>
+    </item>
+    <item>
+      <title>Lost in Translation (2003)</title>
+      <link>http://www.imdb.com/title/tt0335266</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0335266</guid>
+    </item>
+    <item>
+      <title>Birdman or (The Unexpected Virtue of Ignorance) (2014)</title>
+      <link>http://www.imdb.com/title/tt2562232</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2562232</guid>
+    </item>
+    <item>
+      <title>The Whale (2022)</title>
+      <link>http://www.imdb.com/title/tt13833688</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt13833688</guid>
+    </item>
+    <item>
+      <title>Psycho (1960)</title>
+      <link>http://www.imdb.com/title/tt0054215</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0054215</guid>
+    </item>
+    <item>
+      <title>Before Sunrise (1995)</title>
+      <link>http://www.imdb.com/title/tt0112471</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0112471</guid>
+    </item>
+    <item>
+      <title>Jaws (1975)</title>
+      <link>http://www.imdb.com/title/tt0073195</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0073195</guid>
+    </item>
+    <item>
+      <title>Schindler's List (1993)</title>
+      <link>http://www.imdb.com/title/tt0108052</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0108052</guid>
+    </item>
+    <item>
+      <title>BlacKkKlansman (2018)</title>
+      <link>http://www.imdb.com/title/tt7349662</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7349662</guid>
+    </item>
+    <item>
+      <title>Elvis (2022)</title>
+      <link>http://www.imdb.com/title/tt3704428</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3704428</guid>
+    </item>
+    <item>
+      <title>Last Night in Soho (2021)</title>
+      <link>http://www.imdb.com/title/tt9639470</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9639470</guid>
+    </item>
+    <item>
+      <title>Mulholland Drive (2001)</title>
+      <link>http://www.imdb.com/title/tt0166924</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0166924</guid>
+    </item>
+    <item>
+      <title>Licorice Pizza (2021)</title>
+      <link>http://www.imdb.com/title/tt11271038</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11271038</guid>
+    </item>
+    <item>
+      <title>The Hateful Eight (2015)</title>
+      <link>http://www.imdb.com/title/tt3460252</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3460252</guid>
+    </item>
+    <item>
+      <title>Perfect Blue (1997)</title>
+      <link>http://www.imdb.com/title/tt0156887</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0156887</guid>
+    </item>
+    <item>
+      <title>The Thing (1982)</title>
+      <link>http://www.imdb.com/title/tt0084787</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0084787</guid>
+    </item>
+    <item>
+      <title>Scarface (1983)</title>
+      <link>http://www.imdb.com/title/tt0086250</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0086250</guid>
+    </item>
+    <item>
+      <title>Trainspotting (1996)</title>
+      <link>http://www.imdb.com/title/tt0117951</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0117951</guid>
+    </item>
+    <item>
+      <title>Brokeback Mountain (2005)</title>
+      <link>http://www.imdb.com/title/tt0388795</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0388795</guid>
+    </item>
+    <item>
+      <title>tick, tick...BOOM! (2021)</title>
+      <link>http://www.imdb.com/title/tt8721424</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt8721424</guid>
+    </item>
+    <item>
+      <title>The Great Gatsby (2013)</title>
+      <link>http://www.imdb.com/title/tt1343092</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1343092</guid>
+    </item>
+    <item>
+      <title>The Good, the Bad and the Ugly (1966)</title>
+      <link>http://www.imdb.com/title/tt0060196</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0060196</guid>
+    </item>
+    <item>
+      <title>Rocky (1976)</title>
+      <link>http://www.imdb.com/title/tt0075148</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0075148</guid>
+    </item>
+    <item>
+      <title>The Greatest Showman (2017)</title>
+      <link>http://www.imdb.com/title/tt1485796</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1485796</guid>
+    </item>
+    <item>
+      <title>Aliens (1986)</title>
+      <link>http://www.imdb.com/title/tt0090605</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0090605</guid>
+    </item>
+    <item>
+      <title>A Nightmare on Elm Street (1984)</title>
+      <link>http://www.imdb.com/title/tt0087800</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0087800</guid>
+    </item>
+    <item>
+      <title>Rocketman (2019)</title>
+      <link>http://www.imdb.com/title/tt2066051</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2066051</guid>
+    </item>
+    <item>
+      <title>House of Gucci (2021)</title>
+      <link>http://www.imdb.com/title/tt11214590</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11214590</guid>
+    </item>
+    <item>
+      <title>Nobody (2021)</title>
+      <link>http://www.imdb.com/title/tt7888964</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7888964</guid>
+    </item>
+    <item>
+      <title>The Girl with the Dragon Tattoo (2011)</title>
+      <link>http://www.imdb.com/title/tt1568346</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1568346</guid>
+    </item>
+    <item>
+      <title>Nightmare Alley (2021)</title>
+      <link>http://www.imdb.com/title/tt7740496</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7740496</guid>
+    </item>
+    <item>
+      <title>Okja (2017)</title>
+      <link>http://www.imdb.com/title/tt3967856</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3967856</guid>
+    </item>
+    <item>
+      <title>Zack Snyder's Justice League (2021)</title>
+      <link>http://www.imdb.com/title/tt12361974</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt12361974</guid>
+    </item>
+    <item>
+      <title>Monty Python and the Holy Grail (1975)</title>
+      <link>http://www.imdb.com/title/tt0071853</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0071853</guid>
+    </item>
+    <item>
+      <title>The Babadook (2014)</title>
+      <link>http://www.imdb.com/title/tt2321549</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2321549</guid>
+    </item>
+    <item>
+      <title>In Bruges (2008)</title>
+      <link>http://www.imdb.com/title/tt0780536</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0780536</guid>
+    </item>
+    <item>
+      <title>The Unbearable Weight of Massive Talent (2022)</title>
+      <link>http://www.imdb.com/title/tt11291274</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11291274</guid>
+    </item>
+    <item>
+      <title>The Theory of Everything (2014)</title>
+      <link>http://www.imdb.com/title/tt2980516</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2980516</guid>
+    </item>
+    <item>
+      <title>Jackie Brown (1997)</title>
+      <link>http://www.imdb.com/title/tt0119396</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0119396</guid>
+    </item>
+    <item>
+      <title>Before Midnight (2013)</title>
+      <link>http://www.imdb.com/title/tt2209418</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2209418</guid>
+    </item>
+    <item>
+      <title>The Matrix Resurrections (2021)</title>
+      <link>http://www.imdb.com/title/tt10838180</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt10838180</guid>
+    </item>
+    <item>
+      <title>Slumdog Millionaire (2008)</title>
+      <link>http://www.imdb.com/title/tt1010048</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1010048</guid>
+    </item>
+    <item>
+      <title>Snatch (2000)</title>
+      <link>http://www.imdb.com/title/tt0208092</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0208092</guid>
+    </item>
+    <item>
+      <title>Watchmen (2009)</title>
+      <link>http://www.imdb.com/title/tt0409459</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0409459</guid>
+    </item>
+    <item>
+      <title>Fight Club (1999)</title>
+      <link>http://www.imdb.com/title/tt0137523</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0137523</guid>
+    </item>
+    <item>
+      <title>Soul (2020)</title>
+      <link>http://www.imdb.com/title/tt2948372</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2948372</guid>
+    </item>
+    <item>
+      <title>X (2022)</title>
+      <link>http://www.imdb.com/title/tt13560574</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt13560574</guid>
+    </item>
+    <item>
+      <title>Pearl (2022)</title>
+      <link>http://www.imdb.com/title/tt18925334</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt18925334</guid>
+    </item>
+    <item>
+      <title>Asteroid City (2023)</title>
+      <link>http://www.imdb.com/title/tt14230388</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14230388</guid>
+    </item>
+    <item>
+      <title>The Clovehitch Killer (2018)</title>
+      <link>http://www.imdb.com/title/tt6269368</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6269368</guid>
+    </item>
+    <item>
+      <title>Murder on the Orient Express (2017)</title>
+      <link>http://www.imdb.com/title/tt3402236</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3402236</guid>
+    </item>
+    <item>
+      <title>A Cure for Wellness (2016)</title>
+      <link>http://www.imdb.com/title/tt4731136</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt4731136</guid>
+    </item>
+    <item>
+      <title>Nocturnal Animals (2016)</title>
+      <link>http://www.imdb.com/title/tt4550098</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt4550098</guid>
+    </item>
+    <item>
+      <title>Don't Breathe (2016)</title>
+      <link>http://www.imdb.com/title/tt4160708</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt4160708</guid>
+    </item>
+    <item>
+      <title>The Invitation (2015)</title>
+      <link>http://www.imdb.com/title/tt2400463</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2400463</guid>
+    </item>
+    <item>
+      <title>Creep (2014)</title>
+      <link>http://www.imdb.com/title/tt2428170</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2428170</guid>
+    </item>
+    <item>
+      <title>The Guest (2014)</title>
+      <link>http://www.imdb.com/title/tt2980592</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2980592</guid>
+    </item>
+    <item>
+      <title>This Is the End (2013)</title>
+      <link>http://www.imdb.com/title/tt1245492</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1245492</guid>
+    </item>
+    <item>
+      <title>The Place Beyond the Pines (2012)</title>
+      <link>http://www.imdb.com/title/tt1817273</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1817273</guid>
+    </item>
+    <item>
+      <title>The Machinist (2004)</title>
+      <link>http://www.imdb.com/title/tt0361862</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0361862</guid>
+    </item>
+    <item>
+      <title>Eyes Wide Shut (1999)</title>
+      <link>http://www.imdb.com/title/tt0120663</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0120663</guid>
+    </item>
+    <item>
+      <title>Se7en (1995)</title>
+      <link>http://www.imdb.com/title/tt0114369</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0114369</guid>
+    </item>
+    <item>
+      <title>The Exorcist (1973)</title>
+      <link>http://www.imdb.com/title/tt0070047</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0070047</guid>
+    </item>
+    <item>
+      <title>The Crowded Room (2023)</title>
+      <link>http://www.imdb.com/title/tt14417718</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14417718</guid>
+    </item>
+    <item>
+      <title>I'm Still Here (2010)</title>
+      <link>http://www.imdb.com/title/tt1356864</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1356864</guid>
+    </item>
+    <item>
+      <title>Less Than Zero (1987)</title>
+      <link>http://www.imdb.com/title/tt0093407</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0093407</guid>
+    </item>
+    <item>
+      <title>Death Proof (2007)</title>
+      <link>http://www.imdb.com/title/tt1028528</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1028528</guid>
+    </item>
+    <item>
+      <title>Rain Man (1988)</title>
+      <link>http://www.imdb.com/title/tt0095953</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0095953</guid>
+    </item>
+    <item>
+      <title>Decision to Leave (2022)</title>
+      <link>http://www.imdb.com/title/tt12477480</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt12477480</guid>
+    </item>
+    <item>
+      <title>Anyone But You (2023)</title>
+      <link>http://www.imdb.com/title/tt26047818</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt26047818</guid>
+    </item>
+    <item>
+      <title>Talladega Nights: The Ballad of Ricky Bobby (2006)</title>
+      <link>http://www.imdb.com/title/tt0415306</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0415306</guid>
+    </item>
+    <item>
+      <title>The Matrix Revolutions (2003)</title>
+      <link>http://www.imdb.com/title/tt0242653</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0242653</guid>
+    </item>
+    <item>
+      <title>Wild at Heart (1990)</title>
+      <link>http://www.imdb.com/title/tt0100935</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0100935</guid>
+    </item>
+    <item>
+      <title>Past Lives (2023)</title>
+      <link>http://www.imdb.com/title/tt13238346</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt13238346</guid>
+    </item>
+    <item>
+      <title>Dune: Part Two (2024)</title>
+      <link>http://www.imdb.com/title/tt15239678</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt15239678</guid>
+    </item>
+    <item>
+      <title>Mickey 17 (2024)</title>
+      <link>http://www.imdb.com/title/tt12299608</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt12299608</guid>
+    </item>
+    <item>
+      <title>Nosferatu (2024)</title>
+      <link>http://www.imdb.com/title/tt5040012</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt5040012</guid>
+    </item>
+    <item>
+      <title>Bad Times at the El Royale (2018)</title>
+      <link>http://www.imdb.com/title/tt6628394</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6628394</guid>
+    </item>
+    <item>
+      <title>Velvet Buzzsaw (2019)</title>
+      <link>http://www.imdb.com/title/tt7043012</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7043012</guid>
+    </item>
+    <item>
+      <title>Brightburn (2019)</title>
+      <link>http://www.imdb.com/title/tt7752126</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7752126</guid>
+    </item>
+    <item>
+      <title>Once Upon a Time… in Hollywood (2019)</title>
+      <link>http://www.imdb.com/title/tt7131622</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7131622</guid>
+    </item>
+    <item>
+      <title>Shithouse (2020)</title>
+      <link>http://www.imdb.com/title/tt11618536</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11618536</guid>
+    </item>
+    <item>
+      <title>The Rental (2020)</title>
+      <link>http://www.imdb.com/title/tt10003008</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt10003008</guid>
+    </item>
+    <item>
+      <title>Cherry (2021)</title>
+      <link>http://www.imdb.com/title/tt9130508</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9130508</guid>
+    </item>
+    <item>
+      <title>Don't Breathe 2 (2021)</title>
+      <link>http://www.imdb.com/title/tt6246322</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6246322</guid>
+    </item>
+    <item>
+      <title>Scream (2022)</title>
+      <link>http://www.imdb.com/title/tt11245972</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11245972</guid>
+    </item>
+    <item>
+      <title>Speak No Evil (2022)</title>
+      <link>http://www.imdb.com/title/tt14253846</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14253846</guid>
+    </item>
+    <item>
+      <title>Hustle (2022)</title>
+      <link>http://www.imdb.com/title/tt8009428</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt8009428</guid>
+    </item>
+    <item>
+      <title>Candyman (2021)</title>
+      <link>http://www.imdb.com/title/tt9347730</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9347730</guid>
+    </item>
+    <item>
+      <title>Poor Things (2023)</title>
+      <link>http://www.imdb.com/title/tt14230458</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14230458</guid>
+    </item>
+    <item>
+      <title>Anatomy of a Fall (2023)</title>
+      <link>http://www.imdb.com/title/tt17009710</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt17009710</guid>
+    </item>
+    <item>
+      <title>Wonka (2023)</title>
+      <link>http://www.imdb.com/title/tt6166392</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6166392</guid>
+    </item>
+    <item>
+      <title>The Conjuring: The Devil Made Me Do It (2021)</title>
+      <link>http://www.imdb.com/title/tt7069210</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7069210</guid>
+    </item>
+    <item>
+      <title>Normal People (2020)</title>
+      <link>http://www.imdb.com/title/tt9059760</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9059760</guid>
+    </item>
+    <item>
+      <title>Death on the Nile (2022)</title>
+      <link>http://www.imdb.com/title/tt7657566</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt7657566</guid>
+    </item>
+    <item>
+      <title>Lightyear (2022)</title>
+      <link>http://www.imdb.com/title/tt10298810</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt10298810</guid>
+    </item>
+    <item>
+      <title>The Gray Man (2022)</title>
+      <link>http://www.imdb.com/title/tt1649418</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1649418</guid>
+    </item>
+    <item>
+      <title>I Care a Lot (2020)</title>
+      <link>http://www.imdb.com/title/tt9893250</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9893250</guid>
+    </item>
+    <item>
+      <title>Napoleon (2023)</title>
+      <link>http://www.imdb.com/title/tt13287846</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt13287846</guid>
+    </item>
+    <item>
+      <title>The Boy and the Heron (2023)</title>
+      <link>http://www.imdb.com/title/tt6587046</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6587046</guid>
+    </item>
+    <item>
+      <title>Mission: Impossible – Dead Reckoning Part One (2023)</title>
+      <link>http://www.imdb.com/title/tt9603212</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9603212</guid>
+    </item>
+    <item>
+      <title>The Invisible Man (2020)</title>
+      <link>http://www.imdb.com/title/tt1051906</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1051906</guid>
+    </item>
+    <item>
+      <title>The Fabelmans (2022)</title>
+      <link>http://www.imdb.com/title/tt14208870</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14208870</guid>
+    </item>
+    <item>
+      <title>Bones and All (2022)</title>
+      <link>http://www.imdb.com/title/tt10168670</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt10168670</guid>
+    </item>
+    <item>
+      <title>Killers of the Flower Moon (2023)</title>
+      <link>http://www.imdb.com/title/tt5537002</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt5537002</guid>
+    </item>
+    <item>
+      <title>Life of Pi (2012)</title>
+      <link>http://www.imdb.com/title/tt0454876</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0454876</guid>
+    </item>
+    <item>
+      <title>Ghostbusters (1984)</title>
+      <link>http://www.imdb.com/title/tt0087332</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0087332</guid>
+    </item>
+    <item>
+      <title>Carrie (1976)</title>
+      <link>http://www.imdb.com/title/tt0074285</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0074285</guid>
+    </item>
+    <item>
+      <title>The Texas Chain Saw Massacre (1974)</title>
+      <link>http://www.imdb.com/title/tt0072271</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0072271</guid>
+    </item>
+    <item>
+      <title>Punch-Drunk Love (2002)</title>
+      <link>http://www.imdb.com/title/tt0272338</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0272338</guid>
+    </item>
+    <item>
+      <title>Ponyo (2008)</title>
+      <link>http://www.imdb.com/title/tt0876563</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0876563</guid>
+    </item>
+    <item>
+      <title>The Princess Bride (1987)</title>
+      <link>http://www.imdb.com/title/tt0093779</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0093779</guid>
+    </item>
+    <item>
+      <title>Bird Box (2018)</title>
+      <link>http://www.imdb.com/title/tt2737304</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2737304</guid>
+    </item>
+    <item>
+      <title>12 Years a Slave (2013)</title>
+      <link>http://www.imdb.com/title/tt2024544</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2024544</guid>
+    </item>
+    <item>
+      <title>It Follows (2014)</title>
+      <link>http://www.imdb.com/title/tt3235888</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3235888</guid>
+    </item>
+    <item>
+      <title>When Harry Met Sally... (1989)</title>
+      <link>http://www.imdb.com/title/tt0098635</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0098635</guid>
+    </item>
+    <item>
+      <title>Akira (1988)</title>
+      <link>http://www.imdb.com/title/tt0094625</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0094625</guid>
+    </item>
+    <item>
+      <title>Before Sunset (2004)</title>
+      <link>http://www.imdb.com/title/tt0381681</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0381681</guid>
+    </item>
+    <item>
+      <title>A Quiet Place Part II (2020)</title>
+      <link>http://www.imdb.com/title/tt8332922</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt8332922</guid>
+    </item>
+    <item>
+      <title>Citizen Kane (1941)</title>
+      <link>http://www.imdb.com/title/tt0033467</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0033467</guid>
+    </item>
+    <item>
+      <title>Beautiful Boy (2018)</title>
+      <link>http://www.imdb.com/title/tt1226837</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1226837</guid>
+    </item>
+    <item>
+      <title>The Killing of a Sacred Deer (2017)</title>
+      <link>http://www.imdb.com/title/tt5715874</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt5715874</guid>
+    </item>
+    <item>
+      <title>The Sixth Sense (1999)</title>
+      <link>http://www.imdb.com/title/tt0167404</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0167404</guid>
+    </item>
+    <item>
+      <title>One Flew Over the Cuckoo's Nest (1975)</title>
+      <link>http://www.imdb.com/title/tt0073486</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0073486</guid>
+    </item>
+    <item>
+      <title>E.T. the Extra-Terrestrial (1982)</title>
+      <link>http://www.imdb.com/title/tt0083866</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0083866</guid>
+    </item>
+    <item>
+      <title>John Wick: Chapter 4 (2023)</title>
+      <link>http://www.imdb.com/title/tt10366206</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt10366206</guid>
+    </item>
+    <item>
+      <title>Die Hard (1988)</title>
+      <link>http://www.imdb.com/title/tt0095016</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0095016</guid>
+    </item>
+    <item>
+      <title>All Quiet on the Western Front (2022)</title>
+      <link>http://www.imdb.com/title/tt1016150</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1016150</guid>
+    </item>
+    <item>
+      <title>A Star Is Born (2018)</title>
+      <link>http://www.imdb.com/title/tt1517451</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1517451</guid>
+    </item>
+    <item>
+      <title>Shaun of the Dead (2004)</title>
+      <link>http://www.imdb.com/title/tt0365748</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0365748</guid>
+    </item>
+    <item>
+      <title>Halloween (1978)</title>
+      <link>http://www.imdb.com/title/tt0077651</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0077651</guid>
+    </item>
+    <item>
+      <title>Sound of Metal (2019)</title>
+      <link>http://www.imdb.com/title/tt5363618</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt5363618</guid>
+    </item>
+    <item>
+      <title>Apocalypse Now (1979)</title>
+      <link>http://www.imdb.com/title/tt0078788</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0078788</guid>
+    </item>
+    <item>
+      <title>The French Dispatch (2021)</title>
+      <link>http://www.imdb.com/title/tt8847712</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt8847712</guid>
+    </item>
+    <item>
+      <title>The Breakfast Club (1985)</title>
+      <link>http://www.imdb.com/title/tt0088847</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0088847</guid>
+    </item>
+    <item>
+      <title>Oppenheimer (2023)</title>
+      <link>http://www.imdb.com/title/tt15398776</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt15398776</guid>
+    </item>
+    <item>
+      <title>Guardians of the Galaxy Vol. 3 (2023)</title>
+      <link>http://www.imdb.com/title/tt6791350</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6791350</guid>
+    </item>
+    <item>
+      <title>The Banshees of Inisherin (2022)</title>
+      <link>http://www.imdb.com/title/tt11813216</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt11813216</guid>
+    </item>
+    <item>
+      <title>GoodFellas (1990)</title>
+      <link>http://www.imdb.com/title/tt0099685</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0099685</guid>
+    </item>
+    <item>
+      <title>Dead Poets Society (1989)</title>
+      <link>http://www.imdb.com/title/tt0097165</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0097165</guid>
+    </item>
+    <item>
+      <title>Inside Out (2015)</title>
+      <link>http://www.imdb.com/title/tt2096673</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2096673</guid>
+    </item>
+    <item>
+      <title>Moonlight (2016)</title>
+      <link>http://www.imdb.com/title/tt4975722</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt4975722</guid>
+    </item>
+    <item>
+      <title>Avatar: The Way of Water (2022)</title>
+      <link>http://www.imdb.com/title/tt1630029</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1630029</guid>
+    </item>
+    <item>
+      <title>Blade Runner 2049 (2017)</title>
+      <link>http://www.imdb.com/title/tt1856101</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1856101</guid>
+    </item>
+    <item>
+      <title>Call Me by Your Name (2017)</title>
+      <link>http://www.imdb.com/title/tt5726616</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt5726616</guid>
+    </item>
+    <item>
+      <title>Taxi Driver (1976)</title>
+      <link>http://www.imdb.com/title/tt0075314</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0075314</guid>
+    </item>
+    <item>
+      <title>Spider-Man: Across the Spider-Verse (2023)</title>
+      <link>http://www.imdb.com/title/tt9362722</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt9362722</guid>
+    </item>
+    <item>
+      <title>Barbie (2023)</title>
+      <link>http://www.imdb.com/title/tt1517268</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1517268</guid>
+    </item>
+    <item>
+      <title>The Shining (1980)</title>
+      <link>http://www.imdb.com/title/tt0081505</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt0081505</guid>
+    </item>
+    <item>
+      <title>La La Land (2016)</title>
+      <link>http://www.imdb.com/title/tt3783958</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt3783958</guid>
+    </item>
+  </channel>
+</rss>
