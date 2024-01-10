@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 03:26:54 +0000</lastBuildDate>
-    <item>
-      <title>The Adjustment Bureau (2011)</title>
-      <link>http://www.imdb.com/title/tt1385826</link>
-      <guid isPermaLink="false">http://www.imdb.com/title/tt1385826</guid>
-    </item>
-    <item>
-      <title>Midnight Special (2016)</title>
-      <link>http://www.imdb.com/title/tt2649554</link>
-      <guid isPermaLink="false">http://www.imdb.com/title/tt2649554</guid>
-    </item>
-    <item>
-      <title>Hell or High Water (2016)</title>
-      <link>http://www.imdb.com/title/tt2582782</link>
-      <guid isPermaLink="false">http://www.imdb.com/title/tt2582782</guid>
-    </item>
+    <lastBuildDate>Wed, 10 Jan 2024 03:55:14 +0000</lastBuildDate>
     <item>
       <title>Stardust (2007)</title>
       <link>http://www.imdb.com/title/tt0486655</link>
@@ -147,6 +132,36 @@
       <title>The Holdovers (2023)</title>
       <link>http://www.imdb.com/title/tt14849194</link>
       <guid isPermaLink="false">http://www.imdb.com/title/tt14849194</guid>
+    </item>
+    <item>
+      <title>The Boy and the Heron (2023)</title>
+      <link>http://www.imdb.com/title/tt6587046</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt6587046</guid>
+    </item>
+    <item>
+      <title>Poor Things (2023)</title>
+      <link>http://www.imdb.com/title/tt14230458</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt14230458</guid>
+    </item>
+    <item>
+      <title>The Iron Claw (2023)</title>
+      <link>http://www.imdb.com/title/tt21064584</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt21064584</guid>
+    </item>
+    <item>
+      <title>Hell or High Water (2016)</title>
+      <link>http://www.imdb.com/title/tt2582782</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2582782</guid>
+    </item>
+    <item>
+      <title>Midnight Special (2016)</title>
+      <link>http://www.imdb.com/title/tt2649554</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt2649554</guid>
+    </item>
+    <item>
+      <title>The Adjustment Bureau (2011)</title>
+      <link>http://www.imdb.com/title/tt1385826</link>
+      <guid isPermaLink="false">http://www.imdb.com/title/tt1385826</guid>
     </item>
     <item>
       <title>Lone Star (1996)</title>
